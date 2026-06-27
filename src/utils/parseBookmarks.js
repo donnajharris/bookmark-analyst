@@ -20,8 +20,29 @@ export function parseBookmarkFile(htmlString) {
         })
       : null;
 
-    bookmarks.push({ href, title, addDate });
+    bookmarks.push({
+      href,
+      title,
+      addDate,
+      status: isEphemeralUrl(href) ? 'ephemeral' : null,
+    });
   });
 
   return bookmarks;
+}
+
+export function isEphemeralUrl(href) {
+  const ephemeralParams = [
+    'gsessionid',
+    'lsessionid',
+    'vsrid',
+    'lns_mode',
+    'lsessionid',
+  ];
+  try {
+    const url = new URL(href);
+    return ephemeralParams.some((p) => url.searchParams.has(p));
+  } catch {
+    return false;
+  }
 }
