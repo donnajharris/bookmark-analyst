@@ -1,0 +1,376 @@
+{
+  "metadata" : {
+    "browser_name" : "Safari",
+    "browser_version" : "26.5",
+    "data_type" : "history",
+    "export_time_usec" : 1782494810471942,
+    "schema_version" : 1
+  },
+  "history" : [
+    {
+      "url" : "http://bible.foundationalthings.com/",
+      "time_usec" : 1780370026381731,
+      "visit_count" : 1,
+      "destination_url" : "https://bible.foundationalthings.com/",
+      "destination_time_usec" : 1780370026381824
+    },
+    {
+      "url" : "https://bible.helloao.org/api/available_commentaries.json",
+      "time_usec" : 1780371777203796,
+      "visit_count" : 1
+    },
+    {
+      "url" : "https://www.google.com/search?q=bible.helloao.org%2Fapi%2F&ie=UTF-8&oe=UTF-8&hl=en-ca&client=safari&safe=active",
+      "time_usec" : 1780371999289582,
+      "visit_count" : 3,
+      "title" : "bible.helloao.org/api/ - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=bible.helloao.org%2Fapi%2F&ie=UTF-8&oe=UTF-8&hl=en-ca&client=safari&safe=active&zx=1780371999490#sbfbu=1&pi=bible.helloao.org/api/",
+      "time_usec" : 1780372000596048,
+      "visit_count" : 1,
+      "title" : "bible.helloao.org/api/ - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=bible.helloao.org%2Fapi%2F&ie=UTF-8&oe=UTF-8&hl=en-ca&client=safari&safe=active&zx=1780371999490",
+      "time_usec" : 1780372017858312,
+      "visit_count" : 2,
+      "title" : "bible.helloao.org/api/ - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=bible.helloao.org%2Fapi%2Fc%2Fadam-clarke%2FGEN%2F1.json&safe=active&client=safari&hs=1Qf&sca_esv=b94a19475bd036fd&hl=en-ca&sxsrf=ANbL-n7-aKX2nerd9oDKoSwm2X9DGEqHhA%3A1780371998747&ei=HlIeaq3CLPDtmLQPuPmvgQc&biw=430&bih=775&oq=bible.helloao.org%2Fapi%2Fc%2Fadam-clarke%2FGEN%2F1.json&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIi5iaWJsZS5oZWxsb2FvLm9yZy9hcGkvYy9hZGFtLWNsYXJrZS9HRU4vMS5qc29uSOKGAVCoKFiwenAAeACQAQCYAV2gAc8HqgECMTK4AQPIAQD4AQL4AQGYAgCgAgCYAwCIBgGSBwCgB5wEsgcAuAcAwgcAyAcAgAgA&sclient=mobile-gws-wiz-serp#sbfbu=1&pi=bible.helloao.org/api/c/adam-clarke/GEN/1.json",
+      "time_usec" : 1780372024076229,
+      "visit_count" : 1,
+      "title" : "bible.helloao.org/api/c/adam-clarke/GEN/1.json - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=bible.helloao.org%2Fapi%2Fc%2Fadam-clarke%2FGEN%2F1.json&safe=active&client=safari&hs=1Qf&sca_esv=b94a19475bd036fd&hl=en-ca&sxsrf=ANbL-n7-aKX2nerd9oDKoSwm2X9DGEqHhA%3A1780371998747&ei=HlIeaq3CLPDtmLQPuPmvgQc&biw=430&bih=775&oq=bible.helloao.org%2Fapi%2Fc%2Fadam-clarke%2FGEN%2F1.json&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIi5iaWJsZS5oZWxsb2FvLm9yZy9hcGkvYy9hZGFtLWNsYXJrZS9HRU4vMS5qc29uSOKGAVCoKFiwenAAeACQAQCYAV2gAc8HqgECMTK4AQPIAQD4AQL4AQGYAgCgAgCYAwCIBgGSBwCgB5wEsgcAuAcAwgcAyAcAgAgA&sclient=mobile-gws-wiz-serp",
+      "time_usec" : 1780372044802277,
+      "visit_count" : 4,
+      "title" : "bible.helloao.org/api/c/adam-clarke/GEN/1.json - Google Search"
+    },
+    {
+      "url" : "https://bible.helloao.org/api/c/adam-clarke/GEN/1.json",
+      "time_usec" : 1780372056154708,
+      "visit_count" : 1
+    },
+    {
+      "url" : "https://claude.ai/chat/4cf9136d-208d-4101-96fd-f5e738d194ad",
+      "time_usec" : 1782407877419098,
+      "visit_count" : 2,
+      "title" : "Claude"
+    },
+    {
+      "url" : "https://claude.ai/logout",
+      "time_usec" : 1782407877723806,
+      "visit_count" : 1,
+      "title" : "Claude"
+    },
+    {
+      "url" : "https://bible.foundationalthings.com/",
+      "time_usec" : 1780835873658876,
+      "visit_count" : 3,
+      "title" : "MonoVerse"
+    },
+    {
+      "url" : "https://developers.google.com/",
+      "time_usec" : 1781716904224796,
+      "visit_count" : 1
+    },
+    {
+      "url" : "https://bible.foundationalthings.com/index.html",
+      "time_usec" : 1781716905663823,
+      "visit_count" : 2,
+      "title" : "MonoVerse"
+    },
+    {
+      "url" : "http://google.ca/",
+      "time_usec" : 1782109248605720,
+      "visit_count" : 1,
+      "destination_url" : "https://www.google.com/",
+      "destination_time_usec" : 1782109248606114
+    },
+    {
+      "url" : "https://www.google.com/",
+      "time_usec" : 1782109248606353,
+      "visit_count" : 2,
+      "title" : "Google"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%22Ontario%22+%221978%22&sca_esv=23dc3715f2fcb2db&source=hp&ei=P9Q4armLN_S4wN4Pm8jVuA4&iflsig=ABILxe8AAAAAajjiTxJ_UACMUxOfskRFSVra-8iOeWO0&ved=0ahUKEwj5prClmpqVAxV0HNAFHRtkFecQ4dUDCDE&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%22Ontario%22+%221978%22&gs_lp=Egdnd3Mtd2l6Il9zaXRlOnB1YmxpY2F0aW9ucy5nYy5jYS9jb2xsZWN0aW9ucy9jb2xsZWN0aW9uXzIwMTYvYXNwYy1waGFjLyAiU3RyZXB0b2NvY2N1cyIgIk9udGFyaW8iICIxOTc4IkgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz",
+      "time_usec" : 1782109251438839,
+      "visit_count" : 1,
+      "destination_url" : "https://www.google.com/search?q=site:publications.gc.ca/collections/collection_2016/aspc-phac/+%22Streptococcus%22+%22Ontario%22+%221978%22&sca_esv=23dc3715f2fcb2db&source=hp&ei=P9Q4armLN_S4wN4Pm8jVuA4&iflsig=ABILxe8AAAAAajjiTxJ_UACMUxOfskRFSVra-8iOeWO0&ved=0ahUKEwj5prClmpqVAxV0HNAFHRtkFecQ4dUDCDE&uact=5&oq=site:publications.gc.ca/collections/collection_2016/aspc-phac/+%22Streptococcus%22+%22Ontario%22+%221978%22&gs_lp=Egdnd3Mtd2l6Il9zaXRlOnB1YmxpY2F0aW9ucy5nYy5jYS9jb2xsZWN0aW9ucy9jb2xsZWN0aW9uXzIwMTYvYXNwYy1waGFjLyAiU3RyZXB0b2NvY2N1cyIgIk9udGFyaW8iICIxOTc4IkgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz&safe=active",
+      "destination_time_usec" : 1782109251439407
+    },
+    {
+      "url" : "https://www.google.com/search?q=site:publications.gc.ca/collections/collection_2016/aspc-phac/+%22Streptococcus%22+%22Ontario%22+%221978%22&sca_esv=23dc3715f2fcb2db&source=hp&ei=P9Q4armLN_S4wN4Pm8jVuA4&iflsig=ABILxe8AAAAAajjiTxJ_UACMUxOfskRFSVra-8iOeWO0&ved=0ahUKEwj5prClmpqVAxV0HNAFHRtkFecQ4dUDCDE&uact=5&oq=site:publications.gc.ca/collections/collection_2016/aspc-phac/+%22Streptococcus%22+%22Ontario%22+%221978%22&gs_lp=Egdnd3Mtd2l6Il9zaXRlOnB1YmxpY2F0aW9ucy5nYy5jYS9jb2xsZWN0aW9ucy9jb2xsZWN0aW9uXzIwMTYvYXNwYy1waGFjLyAiU3RyZXB0b2NvY2N1cyIgIk9udGFyaW8iICIxOTc4IkgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz&safe=active",
+      "time_usec" : 1782109251709183,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"Streptococcus\" \"Ontario\" \"1978\" - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://publications.gc.ca/collections/collection_2016/aspc-phac/HP3-1-25-S4-eng.pdf&ved=2ahUKEwjegoCnmpqVAxWk2PACHXxhAd4QFnoECDYQAQ&usg=AOvVaw2DN-vjpdQc7h5yLok4B3Se",
+      "time_usec" : 1782109258340175,
+      "visit_count" : 1,
+      "destination_url" : "https://publications.gc.ca/collections/collection_2016/aspc-phac/HP3-1-25-S4-eng.pdf",
+      "destination_time_usec" : 1782109258823905
+    },
+    {
+      "url" : "https://publications.gc.ca/site/archivee-archived.html?url=https%3A%2F%2Fpublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2FHP3-1-25-S4-eng.pdf",
+      "time_usec" : 1782109259300229,
+      "visit_count" : 2,
+      "title" : "Information archivée dans le Web | Information Archived on the Web"
+    },
+    {
+      "url" : "https://publications.gc.ca/collections/collection_2016/aspc-phac/HP3-1-25-S4-eng.pdf",
+      "time_usec" : 1782109261372238,
+      "visit_count" : 2
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%22Guelph%22+%221978%22&safe=active&sca_esv=23dc3715f2fcb2db&ei=Q9Q4ap7VEqSxw8cP_MKF8A0&biw=1214&bih=823&ved=0ahUKEwjegoCnmpqVAxWk2PACHXxhAd4Q4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%22Guelph%22+%221978%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiXnNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICJTdHJlcHRvY29jY3VzIiAiR3VlbHBoIiAiMTk3OCJIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-serp",
+      "time_usec" : 1782109297267010,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"Streptococcus\" \"Guelph\" \"1978\" - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%22Guelph%22&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=cdQ4atu0ArWU5OMP8dHFoA8&ved=0ahUKEwibsee8mpqVAxU1CnkGHfFoEfQQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%22Guelph%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiV3NpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICJTdHJlcHRvY29jY3VzIiAiR3VlbHBoIkgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz-serp",
+      "time_usec" : 1782109303242502,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"Streptococcus\" \"Guelph\" - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%221978%22&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=d9Q4aoSeAYzaptQPlbyVaA&ved=0ahUKEwjEtdS_mpqVAxUMrYkEHRVeBQ0Q4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%221978%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiVXNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICJTdHJlcHRvY29jY3VzIiAiMTk3OCJIwAlQAFioA3AAeACQAQCYAT2gAT2qAQExuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcMsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-serp",
+      "time_usec" : 1782109315687803,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"Streptococcus\" \"1978\" - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%221978%22+%22caesarean%22&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=g9Q4auHwGYuxw8cP8q-c-Ao&ved=0ahUKEwihvsnFmpqVAxWL2PACHfIXB68Q4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%221978%22+%22caesarean%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiYXNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICJTdHJlcHRvY29jY3VzIiAiMTk3OCIgImNhZXNhcmVhbiJIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-serp",
+      "time_usec" : 1782109326376106,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"Streptococcus\" \"1978\" \"caesarean\" - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://publications.gc.ca/collections/collection_2016/aspc-phac/H12-21-1-8-33.pdf&ved=2ahUKEwjM0pfOmpqVAxWtkIkEHZOmMkcQFnoECB0QAQ&usg=AOvVaw1Y-iW2jIDB0Qom2-UTbiOs",
+      "time_usec" : 1782109347577219,
+      "visit_count" : 2,
+      "destination_url" : "https://publications.gc.ca/collections/collection_2016/aspc-phac/H12-21-1-8-33.pdf",
+      "destination_time_usec" : 1782109347714937
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%221978%22+%22outbreak%22&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=jtQ4aqT_Cer_ptQPn9Si-QI&ved=0ahUKEwik_tjKmpqVAxXqv4kEHR-qKC8Q4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%221978%22+%22outbreak%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiYHNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICJTdHJlcHRvY29jY3VzIiAiMTk3OCIgIm91dGJyZWFrIkgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz-serp",
+      "time_usec" : 1782109350419489,
+      "visit_count" : 5,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"Streptococcus\" \"1978\" \"outbreak\" - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%221978%22+%22outbreak%22&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=jtQ4aqT_Cer_ptQPn9Si-QI&ved=0ahUKEwik_tjKmpqVAxXqv4kEHR-qKC8Q4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+%221978%22+%22outbreak%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiYHNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICJTdHJlcHRvY29jY3VzIiAiMTk3OCIgIm91dGJyZWFrIkgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz-serp#sv=CBAS9hgKzhgKBtrZ29IPABLDGAqDBwqAB7rZ29IP-QYKUmh0dHBzOi8vcHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvSDEyLTIxLTEtOC0zMy5wZGYSJlB1YmxpY2F0aW9ucyBkdSBnb3V2ZXJuZW1lbnQgZHUgQ2FuYWRhGvYFZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFCd0FBQUFjQ0FNQUFBQkYweSttQUFBQWhGQk1WRVZIY0V4M2JZYXpWRjFsYm9yUFNVakxVbE1Ob3RSRWVKb3JqYmF1V0dOSmVwcUdVbWFqWG16RFNrN0xRVUcrT1R5aFJWR09UVjdHTXpQSk9qbUxZSE9HV0dxeEx6YkRMUzV5WUhsbGNZMmhQRWVaUlZTa1hHbUNYWEdzSXlpZk16NlZQVXUvSVNIQkp5ZTVFeE95SHlTOUd4cUJib2EyQXdPM0RBeXBJaW1HUTFPeEtDN0pmVE9OQUFBQUxIUlNUbE1BV05STy8vb0RFZ3EyQjRGMzZmLyt0RVQvLzAwczRQOGFJTUdSbldpNGNsYisvLy9uLzBMLy84NmNsWm5MWG9VQUFBRW5TVVJCVkhnQmRkSUZsb05BRUFEUmhtVmNjSGVMM3Y5K2kwWGdoVXJRandQc01ndzR6elRQN2M5Q2YvQWpUREJRWmxtTVRyTkg1RUpTUTJsTEdWUktldHhUMkk2cHRiWk1oaVNHUTY3dCtmNnNGZ3JnV0JqRm01cmhRUWdrVHV5dHloSWdLU3lsMDVSbU9kQjh3a1VMQ2dYRGk1UlYzWWkySzZHTzUxMG5sVkJhU0FhU0dSRDAvZENPNHhDNFViZW9jZ05sV1VnaGRJRWt1dDc2Zmh3aloram1mVDNGbExZbXRVd0MzSmx3MXJickp0M09PMnVCQWRlMzI2YnRxalBPS2pFMDkrdUptZ2JrL2ZWRWxRQmVENXVPZTFVbEI0RG1wNXJiRTNidlg5cXRtb1d3bFdadmJWZDFVdmowMkt1QTc5THIxUHU4TWRtaHVQYkRjSytHb2JwSFE5ZVcrNC9rV1RkdVNLcUtoRzVUUHdYK3hvVERYRlZ0aXh2dXV0L2hORjVWdTYveUgyYkhLeEUxVUlQa0FBQUFBRWxGVGtTdVFtQ0MgATgBCpkCCpYC0tnb0g-PAgorTWV0aGljaWxsaW4tUmVzaXN0YW50IFN0YXBoeWxvY29jY3VzIGF1cmV1cxJSaHR0cHM6Ly9wdWJsaWNhdGlvbnMuZ2MuY2EvY29sbGVjdGlvbnMvY29sbGVjdGlvbl8yMDE2L2FzcGMtcGhhYy9IMTItMjEtMS04LTMzLnBkZhqLAVVuZSBjdWx0dXJlIGR1IGNyYWNoYXQgbWV0IGVuIMOpdmlkZW5jZSBTdHJlcHRvY29jY3VzIHBuZXVtb25pYWUgZXQgLi4uIHRoZSBKYW51YXJ5IDE5Nzggb3V0YnJlYWsgYnV0IG5vdCBiZWNhdXNlIG9mIGl0LCBhIG5ldyB1bml0IHdhcyAuLi4KkgkKjwnC2dvSD4gJEitNZXRoaWNpbGxpbi1SZXNpc3RhbnQgU3RhcGh5bG9jb2NjdXMgYXVyZXVzGpQDClJodHRwczovL3B1YmxpY2F0aW9ucy5nYy5jYS9jb2xsZWN0aW9ucy9jb2xsZWN0aW9uXzIwMTYvYXNwYy1waGFjL0gxMi0yMS0xLTgtMzMucGRmEitNZXRoaWNpbGxpbi1SZXNpc3RhbnQgU3RhcGh5bG9jb2NjdXMgYXVyZXVzGosBVW5lIGN1bHR1cmUgZHUgY3JhY2hhdCBtZXQgZW4gw6l2aWRlbmNlIFN0cmVwdG9jb2NjdXMgcG5ldW1vbmlhZSBldCAuLi4gdGhlIEphbnVhcnkgMTk3OCBvdXRicmVhayBidXQgbm90IGJlY2F1c2Ugb2YgaXQsIGEgbmV3IHVuaXQgd2FzIC4uLiABKgJlbjICQ0FCHy9zP3RibT1tYXAmZ3Nfcmk9bWFwcyZzdWdnZXN0PXBKMEFGNXRTTzRmUmtPSWZmVHdxMHVtSGVnMk9LR1BVSGtuREE6MTc4MjEwOTMzMzYzNlImUHVibGljYXRpb25zIGR1IGdvdXZlcm5lbWVudCBkdSBDYW5hZGFSgwEYBSorTWV0aGljaWxsaW4tUmVzaXN0YW50IFN0YXBoeWxvY29jY3VzIGF1cmV1czpSaHR0cHM6Ly9wdWJsaWNhdGlvbnMuZ2MuY2EvY29sbGVjdGlvbnMvY29sbGVjdGlvbl8yMDE2L2FzcGMtcGhhYy9IMTItMjEtMS04LTMzLnBkZnKGAQpSaHR0cHM6Ly9wdWJsaWNhdGlvbnMuZ2MuY2EvY29sbGVjdGlvbnMvY29sbGVjdGlvbl8yMDE2L2FzcGMtcGhhYy9IMTItMjEtMS04LTMzLnBkZigjMi5Tb3VyY2U6IFB1YmxpY2F0aW9ucyBkdSBnb3V2ZXJuZW1lbnQgZHUgQ2FuYWRherIDGitNZXRoaWNpbGxpbi1SZXNpc3RhbnQgU3RhcGh5bG9jb2NjdXMgYXVyZXVzIhZ3ZWJyZXN1bHRfX1VyTlVMckV4ZndKMAFg7o8GagpNU0FGIC0gU1JQcswCqgEQV0VCX1JFU1VMVF9JTk5FUrIBYApSaHR0cHM6Ly9wdWJsaWNhdGlvbnMuZ2MuY2EvY29sbGVjdGlvbnMvY29sbGVjdGlvbl8yMDE2L2FzcGMtcGhhYy9IMTItMjEtMS04LTMzLnBkZhIGRklMVEVSGAEgAOIB0gEKngFVbmUgY3VsdHVyZSBkdSBjcmFjaGF0IG1ldCBlbiDDqXZpZGVuY2UgPGI-U3RyZXB0b2NvY2N1czwvYj4gcG5ldW1vbmlhZSBldCAuLi4gdGhlIEphbnVhcnkgPGI-MTk3OCBvdXRicmVhazwvYj4gYnV0IG5vdCBiZWNhdXNlIG9mIGl0LCBhIG5ldyB1bml0IHdhcyZuYnNwOy4uLhIrTWV0aGljaWxsaW4tUmVzaXN0YW50IFN0YXBoeWxvY29jY3VzIGF1cmV1cxgAIBCgAWLAAQHgAQHoAQEKiQYKhgbK2dvSD_8FEtcFItQFL3NlYXJjaC9hYm91dC10aGlzLXJlc3VsdD9vcmlnaW49d3d3Lmdvb2dsZS5jb20mY3M9MSZyZXE9Q2xKb2RIUndjem92TDNCMVlteHBZMkYwYVc5dWN5NW5ZeTVqWVM5amIyeHNaV04wYVc5dWN5OWpiMnhzWldOMGFXOXVYekl3TVRZdllYTndZeTF3YUdGakwwZ3hNaTB5TVMweExUZ3RNek11Y0dSbUVnUWFBZ2dBR29JREVnQWFBQ0lBS2dBeUJnZ0JFZ0pqWVRvQVFnUUlBaEFBU2dCYUFISUFlZ0NDUU40Q0NBQVFBQmdBSUFBcUZBb05jM1J5WlhCMGIyTnZZMk4xY3hWRzhiMDhLZ3NLQkRFNU56Z1ZJVTRHUHlvUENnaHZkWFJpY21WaGF4VUtYamNfTWxKb2RIUndjem92TDNCMVlteHBZMkYwYVc5dWN5NW5ZeTVqWVM5amIyeHNaV04wYVc5dWN5OWpiMnhzWldOMGFXOXVYekl3TVRZdllYTndZeTF3YUdGakwwZ3hNaTB5TVMweExUZ3RNek11Y0dSbU9pdE5aWFJvYVdOcGJHeHBiaTFTWlhOcGMzUmhiblFnVTNSaGNHaDViRzlqYjJOamRYTWdZWFZ5WlhWelFwNEJWVzVsSUdOMWJIUjFjbVVnWkhVZ1kzSmhZMmhoZENCdFpYUWdaVzRndzZsMmFXUmxibU5sSUR4aVBsTjBjbVZ3ZEc5amIyTmpkWE04TDJJLUlIQnVaWFZ0YjI1cFlXVWdaWFFnTGk0dUlIUm9aU0JLWVc1MVlYSjVJRHhpUGpFNU56Z2diM1YwWW5KbFlXczhMMkktSUdKMWRDQnViM1FnWW1WallYVnpaU0J2WmlCcGRDd2dZU0J1WlhjZ2RXNXBkQ0IzWVhNbWJtSnpjRHN1TGk0aUFoQUJTQUZZQUdnQSZobD1lbi1DQSZnbD1DQRoWaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbVoAYAFoAXAAeACKAQASI2F0cml0ZW0tX2xkUTRhb3kwSGEyaHB0UVBrODNLdVFRXzUwGC8gn9jdrgI",
+      "time_usec" : 1782109355587202,
+      "visit_count" : 1,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"Streptococcus\" \"1978\" \"outbreak\" - Google Search"
+    },
+    {
+      "url" : "https://publications.gc.ca/collections/collection_2016/aspc-phac/H12-21-1-8-33.pdf",
+      "time_usec" : 1782109364235915,
+      "visit_count" : 4
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%2237+year%22&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=ldQ4aoy0Ha2hptQPk83KuQQ&ved=0ahUKEwjM0pfOmpqVAxWtkIkEHZOmMkcQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%2237+year%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiSHNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICIzNyB5ZWFyIkivMFAAWI4tcAl4AJABAJgBNaABgwaqAQIxN7gBA8gBAPgBAZgCAKACAJgDAJIHAKAHzAGyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz-serp",
+      "time_usec" : 1782109416294479,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"37 year\" - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%2237+year%22+%22Streptococcus%22&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=59Q4avSxOtWcptQPw4e-2AQ&ved=0ahUKEwi0wcH1mpqVAxVVjokEHcODD0sQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%2237+year%22+%22Streptococcus%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiWHNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICIzNyB5ZWFyIiAiU3RyZXB0b2NvY2N1cyJI4OwBUP4oWPLjAXAGeACQAQCYATSgAfYEqgECMTS4AQPIAQD4AQH4AQKYAgCgAgCYAwCIBgGSBwCgB6gBsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-serp",
+      "time_usec" : 1782109451593016,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"37 year\" \"Streptococcus\" - Google Search"
+    },
+    {
+      "url" : "https://publications.gc.ca/collections/collection_2016/aspc-phac/HP3-1-26-S4-eng.pdf#:~:text=A%20streptococcus.%20A%20prospective%20laboratory,1995%20to%201996%20to%20determine&text=For%20example%2C%20one%20sample%20from,be%20IgM%20positive%20for%20HHV%2D6%2C",
+      "time_usec" : 1782109456750953,
+      "visit_count" : 1,
+      "destination_url" : "https://publications.gc.ca/site/archivee-archived.html?url=https%3A%2F%2Fpublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2FHP3-1-26-S4-eng.pdf",
+      "destination_time_usec" : 1782109456751707
+    },
+    {
+      "url" : "https://publications.gc.ca/site/archivee-archived.html?url=https%3A%2F%2Fpublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2FHP3-1-26-S4-eng.pdf",
+      "time_usec" : 1782109456972432,
+      "visit_count" : 2,
+      "title" : "Information archivée dans le Web | Information Archived on the Web"
+    },
+    {
+      "url" : "https://publications.gc.ca/collections/collection_2016/aspc-phac/HP3-1-26-S4-eng.pdf",
+      "time_usec" : 1782109458988896,
+      "visit_count" : 1
+    },
+    {
+      "url" : "https://publications.gc.ca/collections/collection_2016/aspc-phac/H12-21-1-16-51.pdf",
+      "time_usec" : 1782109475019823,
+      "visit_count" : 1,
+      "destination_url" : "https://publications.gc.ca/site/archivee-archived.html?url=https%3A%2F%2Fpublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2FH12-21-1-16-51.pdf",
+      "destination_time_usec" : 1782109475020452
+    },
+    {
+      "url" : "https://publications.gc.ca/site/archivee-archived.html?url=https%3A%2F%2Fpublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2FH12-21-1-16-51.pdf",
+      "time_usec" : 1782109475311157,
+      "visit_count" : 2,
+      "title" : "Information archivée dans le Web | Information Archived on the Web"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%2237-year-old%22+%22Streptococcus%22&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=C9U4arLAF4alptQPvenl4AM&ved=0ahUKEwjy8bOGm5qVAxWGkokEHb10GTwQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%2237-year-old%22+%22Streptococcus%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiXHNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICIzNy15ZWFyLW9sZCIgIlN0cmVwdG9jb2NjdXMiSJ4sUABYpCpwAHgAkAEAmAE0oAE0qgEBMbgBA8gBAPgBAZgCAKACAJgDAJIHAKAHDLIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-serp",
+      "time_usec" : 1782109488211391,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"37-year-old\" \"Streptococcus\" - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=MNU4as-WAYLbptQP4JHG-AI&ved=0ahUKEwjP7u-Xm5qVAxWCrYkEHeCIES8Q4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiTnNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICJTdHJlcHRvY29jY3VzIkiqH1AAWJ8acAB4AJABAJgBL6ABqAGqAQE0uAEDyAEA-AEB-AECmAIAoAIAmAMAkgcAoAcwsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-serp",
+      "time_usec" : 1782109496542210,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"Streptococcus\" - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus+pyogenes%22+1978%C2%A0&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=PtU4aulQvqKm1A_agNfYAw&ved=0ahUKEwjp58Wem5qVAxU-kYkEHVrAFTsQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus+pyogenes%22+1978%C2%A0&gs_lp=Egxnd3Mtd2l6LXNlcnAiXnNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICJTdHJlcHRvY29jY3VzIHB5b2dlbmVzIiAxOTc4wqBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEB-AECmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-serp",
+      "time_usec" : 1782109548400738,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"Streptococcus pyogenes\" 1978  - Google Search"
+    },
+    {
+      "url" : "https://publications.gc.ca/collections/collection_2016/aspc-phac/H12-21-1-8-12.pdf",
+      "time_usec" : 1782109555260812,
+      "visit_count" : 2
+    },
+    {
+      "url" : "https://publications.gc.ca/site/archivee-archived.html?url=https%3A%2F%2Fpublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2FH12-21-1-8-12.pdf",
+      "time_usec" : 1782109603606308,
+      "visit_count" : 3,
+      "title" : "Information archivée dans le Web | Information Archived on the Web"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+1978&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=ONU4auTDD-vpptQPstTqgA8&ved=0ahUKEwjkv-abm5qVAxXrtIkEHTKqGvAQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%22Streptococcus%22+1978&gs_lp=Egxnd3Mtd2l6LXNlcnAiU3NpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvICJTdHJlcHRvY29jY3VzIiAxOTc4SLoJUABY7gZwAHgAkAEAmAEyoAG-AaoBATS4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBzCyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz-serp",
+      "time_usec" : 1782109611412725,
+      "visit_count" : 4,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ \"Streptococcus\" 1978 - Google Search"
+    },
+    {
+      "url" : "https://publications.gc.ca/collections/collection_2016/aspc-phac/H12-21-1-12-4.pdf",
+      "time_usec" : 1782110324772042,
+      "visit_count" : 1,
+      "destination_url" : "https://publications.gc.ca/site/archivee-archived.html?url=https%3A%2F%2Fpublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2FH12-21-1-12-4.pdf",
+      "destination_time_usec" : 1782110324772702
+    },
+    {
+      "url" : "https://publications.gc.ca/site/archivee-archived.html?url=https%3A%2F%2Fpublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2FH12-21-1-12-4.pdf",
+      "time_usec" : 1782110324855603,
+      "visit_count" : 2,
+      "title" : "Information archivée dans le Web | Information Archived on the Web"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=PtU4aulQvqKm1A_agNfYAw&ved=0ahUKEwjp58Wem5qVAxU-kYkEHVrAFTsQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F&gs_lp=Egxnd3Mtd2l6LXNlcnAiPnNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvSN8oUABYuCZwAXgAkAEAmAEyoAGuAaoBATS4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBzCyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz-serp",
+      "time_usec" : 1782110339099448,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%C2%A0Streptococcus%2C+Group+A&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=gtg4aoaINZeX5OMPj_Tw4As&ved=0ahUKEwiG0cutnpqVAxWXC3kGHQ86HLwQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%C2%A0Streptococcus%2C+Group+A&gs_lp=Egxnd3Mtd2l6LXNlcnAiV3NpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvIMKgU3RyZXB0b2NvY2N1cywgR3JvdXAgQUjHS1CmC1iOPXABeACQAQCYASqgAU-qAQEyuAEDyAEA-AEB-AECmAIAoAIAmAMAiAYBkgcAoAcYsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-serp",
+      "time_usec" : 1782110365083394,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/  Streptococcus, Group A - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=nNg4auyJLpufptQP_v6gwQQ&ved=0ahUKEwjsx_e5npqVAxWbj4kEHX4_KEgQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978&gs_lp=Egxnd3Mtd2l6LXNlcnAiQ3NpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvIDE5NzhIjA5QAFj4B3AAeACQAQCYAS-gAbMBqgEBNLgBA8gBAPgBAZgCAKACAJgDAJIHAKAHMLIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-serp",
+      "time_usec" : 1782110375743758,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ 1978 - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+hospital+outbreak+ontario&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=p9g4aqb4FLX-ptQPwergiQY&ved=0ahUKEwjm5_2-npqVAxU1v4kEHUE1OGEQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+hospital+outbreak+ontario&gs_lp=Egxnd3Mtd2l6LXNlcnAiXXNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvIDE5NzggaG9zcGl0YWwgb3V0YnJlYWsgb250YXJpb0jaRFC_B1jJPnADeACQAQCYATCgAeoFqgECMTi4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB9gBsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-serp",
+      "time_usec" : 1782110388780791,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ 1978 hospital outbreak ontario - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+hospital+outbreak+ontario+streptococcus&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=tNg4apDoEPSew8cP-bneyA4&ved=0ahUKEwiQkpPFnpqVAxV0z_ACHfmcF-kQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+hospital+outbreak+ontario+streptococcus&gs_lp=Egxnd3Mtd2l6LXNlcnAia3NpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvIDE5NzggaG9zcGl0YWwgb3V0YnJlYWsgb250YXJpbyBzdHJlcHRvY29jY3VzSABQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-serp",
+      "time_usec" : 1782110416850272,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ 1978 hospital outbreak ontario streptococcus - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+hospital+outbreak+ontario+streptococcal&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=0Ng4arf1IvmcptQPh5Ce2AU&ved=0ahUKEwi3ndLSnpqVAxV5jokEHQeIB1sQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+hospital+outbreak+ontario+streptococcal&gs_lp=Egxnd3Mtd2l6LXNlcnAia3NpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvIDE5NzggaG9zcGl0YWwgb3V0YnJlYWsgb250YXJpbyBzdHJlcHRvY29jY2FsSABQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-serp",
+      "time_usec" : 1782110441570888,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ 1978 hospital outbreak ontario streptococcal - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+ontario+streptococcal+septicemia&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=6dg4auXGE8nbptQPtrPMqQ4&ved=0ahUKEwil37jenpqVAxXJrYkEHbYZM-UQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+ontario+streptococcal+septicemia&gs_lp=Egxnd3Mtd2l6LXNlcnAiZHNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvIDE5Nzggb250YXJpbyBzdHJlcHRvY29jY2FsIHNlcHRpY2VtaWFIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-serp",
+      "time_usec" : 1782110460352907,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ 1978 ontario streptococcal septicemia - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+streptococcal+septicemia&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=823&ei=_Ng4ar6xCJ6qw8cP0rnMoA4&ved=0ahUKEwi-n7XnnpqVAxUe1fACHdIcE-QQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+streptococcal+septicemia&gs_lp=Egxnd3Mtd2l6LXNlcnAiXHNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvIDE5Nzggc3RyZXB0b2NvY2NhbCBzZXB0aWNlbWlhSABQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-serp",
+      "time_usec" : 1782110465629170,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ 1978 streptococcal septicemia - Google Search"
+    },
+    {
+      "url" : "https://publications.gc.ca/site/archivee-archived.html?url=https%3A%2F%2Fpublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2FH12-21-1-8-33.pdf",
+      "time_usec" : 1782110472200231,
+      "visit_count" : 7,
+      "title" : "Information archivée dans le Web | Information Archived on the Web"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+streptococcal+sepsis&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=795&ei=Adk4aujKFrWV5OMPuce1-QY&ved=0ahUKEwioz_TpnpqVAxW1CnkGHbljLW8Q4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+1978+streptococcal+sepsis&gs_lp=Egxnd3Mtd2l6LXNlcnAiWHNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvIDE5Nzggc3RyZXB0b2NvY2NhbCBzZXBzaXNIjh5QAFiUHHAEeACQAQCYAS-gAawBqgEBNLgBA8gBAPgBAZgCAKACAJgDAJIHAKAHMLIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-serp",
+      "time_usec" : 1782110485258067,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ 1978 streptococcal sepsis - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%C2%A0streptococcal+sepsis+post+surgery&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=795&ei=FNk4arPCM-Orw8cPm8jk6AU&ved=0ahUKEwiznJnznpqVAxXj1fACHRskGV0Q4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+%C2%A0streptococcal+sepsis+post+surgery&gs_lp=Egxnd3Mtd2l6LXNlcnAiYnNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvIMKgc3RyZXB0b2NvY2NhbCBzZXBzaXMgcG9zdCBzdXJnZXJ5SNxSUABYjFBwAngAkAEAmAFXoAFXqgEBMbgBA8gBAPgBAZgCAKACAJgDAJIHAKAHDLIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-serp",
+      "time_usec" : 1782110510278223,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/  streptococcal sepsis post surgery - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+near+death&safe=active&sca_esv=23dc3715f2fcb2db&biw=1214&bih=795&ei=Ltk4asGBBKeA5OMPqLzhiAM&ved=0ahUKEwjB0Jz_npqVAxUnAHkGHSheGDEQ4dUDCBI&uact=5&oq=site%3Apublications.gc.ca%2Fcollections%2Fcollection_2016%2Faspc-phac%2F+near+death&gs_lp=Egxnd3Mtd2l6LXNlcnAiSXNpdGU6cHVibGljYXRpb25zLmdjLmNhL2NvbGxlY3Rpb25zL2NvbGxlY3Rpb25fMjAxNi9hc3BjLXBoYWMvIG5lYXIgZGVhdGhI4QxQAFifCXAAeACQAQCYAT2gAbkDqgECMTC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgB3iyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz-serp",
+      "time_usec" : 1782110522099412,
+      "visit_count" : 3,
+      "title" : "site:publications.gc.ca/collections/collection_2016/aspc-phac/ near death - Google Search"
+    },
+    {
+      "url" : "https://iconnectweb.octopuscloud.ca/webaccess",
+      "time_usec" : 1782330596323441,
+      "visit_count" : 1,
+      "destination_url" : "https://iconnectweb.octopuscloud.ca/webaccess/",
+      "destination_time_usec" : 1782330596323799
+    },
+    {
+      "url" : "https://iconnectweb.octopuscloud.ca/webaccess/",
+      "time_usec" : 1782330596323799,
+      "visit_count" : 1,
+      "title" : "iConnect® Access",
+      "source_url" : "https://iconnectweb.octopuscloud.ca/webaccess",
+      "source_time_usec" : 1782330596323441
+    },
+    {
+      "url" : "https://iconnectweb.octopuscloud.ca/webaccess/Help/Current/wwhelp.htm",
+      "time_usec" : 1782333447920632,
+      "visit_count" : 1,
+      "title" : "iConnect Access Help"
+    },
+    {
+      "url" : "https://iconnectweb.octopuscloud.ca/webaccess/Default.ashx",
+      "time_usec" : 1782334312311044,
+      "visit_count" : 2,
+      "title" : "iConnect® Access",
+      "latest_visit_was_http_get" : false
+    },
+    {
+      "url" : "https://claude.ai/login?from=logout",
+      "time_usec" : 1782494737409528,
+      "visit_count" : 3,
+      "title" : "Sign in - Claude"
+    }
+  ]
+}
